@@ -1,6 +1,6 @@
 # Cash Register
 
-Cash Register as the name suggests is a web app that can be used to calculate cash related info & potentailly store it as well for future references.
+[Cash Register](https://kk-kuldeep.github.io/cash_register/) as the name suggests is a web app that can be used to calculate cash related info & potentailly store it as well for future references.
 
 _Although this is a very simple implementation of cash register which just gives us the minimum number of notes sorted in decreasing order of denomination._
 
